@@ -1,1 +1,0 @@
-The vowels string contains all the vowel characters, both uppercase and lowercase. The consonants string contains all the consonant characters.
